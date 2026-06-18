@@ -46,4 +46,4 @@ The model predicts whether a customer is likely to churn or remain with the tele
 ## Author
 
 Bhavya Sri Kusam
->>>>>>> a8adf6d67f64e2c1715967dccd2223994c90e49b
+
